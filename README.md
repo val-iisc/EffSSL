@@ -1,6 +1,6 @@
 # Efficient and Effective Self-Supervised Learning
 
-This repository contains the implementation of our paper titled "Towards Efficient and Effective Self-Supervised Learning of Visual Representations", accepted at [ECCV'22](https://eccv2022.ecva.net/) [[Paper](https://arxiv.org/abs/2210.09866)]. A preliminary version of our work was presented at the NeurIPS'21 Workshop, [Self-supervised learning, Theory and Practice](https://sslneurips21.github.io/) [[Poster](https://sslneurips21.github.io/files/Poster/Paper_id_25.pdf)][[Paper](https://sslneurips21.github.io/files/CameraReady/SSLW_upload.pdf)].
+This repository contains the implementation of our paper titled "Towards Efficient and Effective Self-Supervised Learning of Visual Representations", accepted at [ECCV'22](https://eccv2022.ecva.net/) [[Poster](https://drive.google.com/file/d/1tW40PWQNcMx1W3JSyghD0-ym8BrS_iDP/view)][[Paper](https://arxiv.org/abs/2210.09866)][[Video](https://drive.google.com/file/d/1c7348_9Le0ZfLaVMjeh2UeyH9OyeVqgl/view)]. A preliminary version of our work was presented at the NeurIPS'21 Workshop, [Self-supervised learning, Theory and Practice](https://sslneurips21.github.io/) [[Poster](https://sslneurips21.github.io/files/Poster/Paper_id_25.pdf)][[Paper](https://sslneurips21.github.io/files/CameraReady/SSLW_upload.pdf)].
 
 ![plot](./fig.jpg)
 
